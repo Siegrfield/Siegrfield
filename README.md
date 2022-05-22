@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on with Java and VUeJS at Support sistemas e gestão.
+- 🔭 I’m currently working on with Java and VUeJS at Support sistemas de gestão.
 - 🌱 I’m currently learning computer science.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: The earth’s circumference is 24,900 miles.
