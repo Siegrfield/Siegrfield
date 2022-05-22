@@ -12,4 +12,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siegrfield&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ![Snake animation](https://github.com/siegrfield/siegrfield/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Siegrfield/Siegrfield/blob/output/github-contribution-grid-snake.svg)
